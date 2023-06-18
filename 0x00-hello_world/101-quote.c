@@ -2,8 +2,8 @@
 #include <unistd.h>
 
 /**
- * main
- * Return 0
+ * main: this functio print the value
+ * Return: 0
  */
 
 int main(void)
