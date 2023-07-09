@@ -1,5 +1,5 @@
 #include "main.h"
-#include <stddef.h>
+
 /**
  * _strchr - This function that locates a character  in a string.
  * @s: an input string to search 
